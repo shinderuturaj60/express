@@ -39,7 +39,7 @@ const app = express()
 app.get('/', (req, res) => {
   res.send('Hello World')
 })
-# is my project
+
 app.listen(3000)
 ```
 
